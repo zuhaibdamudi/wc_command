@@ -8,7 +8,7 @@
 // occurrences of particular word (-wrd)
 // longest line (-ll)
 
-// argv[1] = names.txt
+// argv[1] = sample.txt
 // argv[2] = "-l"
 // argv[3] = word to count occurrence of
 
