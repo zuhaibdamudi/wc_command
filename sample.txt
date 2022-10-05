@@ -1,0 +1,15 @@
+Hi, welcome to @Manipal$
+We are in the 5th Semester!
+This is our Operating Systems Mini Project :)
+
+Using the WC command implemented in our project, we can count the numbers of bytes, characters, words and lines. 
+We can also search for the occurrence of a particular word and get to know how many paragraphs, comments lines and special characters are in the program. 
+Additionally, it can display the longest line in a given C file or text file.
+
+//This is a comment
+
+/*
+This is another 
+multiline
+comment
+*/
